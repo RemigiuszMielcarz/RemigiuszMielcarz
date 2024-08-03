@@ -90,6 +90,8 @@ I am a highly skilled Full-stack Web Developer with a background in Automatics a
 | MidJourney      | ⭐⭐⭐⭐    |
 | DALL-E          | ⭐⭐⭐⭐    |
 
+[![RemigiuszMielcarz's GitHub | Languages Over Time](https://stats.quira.sh/RemigiuszMielcarz/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=RemigiuszMielcarz)
+
 ## 💼 Projects
 
 - **[Flipico](https://flipico.agency)**
