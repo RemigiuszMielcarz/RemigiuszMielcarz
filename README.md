@@ -10,7 +10,7 @@ As the CTO of [Flipico](https://flipico.agency), I specialize in the design and 
   - **Electronic Systems in Mechatronics (MSc)** - Wrocław University of Technology
 
 - **Experience**:
-  - **CTO at Flipico** (08/2022 - Present)
+  - **CTO at Flipico** (03/2022 - Present)
   - **Full-stack Web Developer at BOWWE** (04/2022 - 07/2022)
 
 ## ⚙️ Skills
@@ -19,7 +19,7 @@ As the CTO of [Flipico](https://flipico.agency), I specialize in the design and 
 |---------------------------|--------------------------------------------|---------------------------------------------|---------------------------------------|
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Webflow](https://img.shields.io/badge/-Webflow-000000?style=flat-square&logo=webflow&logoColor=white) | ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white) | ![Make](https://img.shields.io/badge/-Make-000000?style=flat-square&logo=make&logoColor=white) |
 | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Wized](https://img.shields.io/badge/-Wized-4353FF?style=flat-square&logo=wattpad&logoColor=white) | ![Memberstack](https://img.shields.io/badge/-Memberstack-000000?style=flat-square&logo=webflow&logoColor=white) | ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white) |
-| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Relume](https://img.shields.io/badge/-Relume-000000?style=flat-square&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![MidJourney](https://img.shields.io/badge/-MidJourney-000000?style=flat-square&logo=midjourney&logoColor=white) |
+| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Relume.io](https://img.shields.io/badge/-Relume-000000?style=flat-square&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![MidJourney](https://img.shields.io/badge/-MidJourney-000000?style=flat-square&logo=midjourney&logoColor=white) |
 | ![Liquid](https://img.shields.io/badge/-Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white) | ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![DALL-E](https://img.shields.io/badge/-DALL--E-000000?style=flat-square&logo=openaidall-e&logoColor=white) |
 | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) | ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00B2FF?style=flat-square&logo=openai&logoColor=white) |
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white) | ![Senuto](https://img.shields.io/badge/-Senuto-4D8F6D?style=flat-square&logo=senuto&logoColor=white) |
@@ -46,16 +46,25 @@ As the CTO of [Flipico](https://flipico.agency), I specialize in the design and 
 ## 💼 Projects
 
 - **[Flipico](https://flipico.agency)**
-  - Webflow, Relume, JavaScript, CMS
+  - Webflow, CMS, Relume.io, Finsweet Client First, Senuto
 
 - **[Doba Regionalnie](https://regionalnie.doba.pl)**
-  - Webflow, Memberstack, Relume, Client First, Make, Firebase
+  - Webflow, Memberstack, Relume.io, Finsweet Client First, Make, Firebase
 
-- **[Moto M5](https://motom5.my-shopify.com)**
-  - Liquid, Shopify, GraphQL, Wheel Size API, Relume
-
+- **[Deckline](https://deckline.pl)**
+  - Webflow, Typescript, Stripe.js, Relume.io, Finsweet Client First, Make, Node.js, Express, Baselinker
+    
 - **[vSprint](https://konferencja.vsprint.pl)**
-  - Webflow, Finsweet, Make, MailerLite
+  - Webflow, Relume.io, Finsweet Client First, Make, MailerLite
+
+- **[Olimp Marketplace](https://olimp-marketplace.webflow.io/pakiet-rynkow-wschodzacych)**
+  - Webflow, Relume.io, Finsweet Client First, Make
+
+- **[Com-net](https://com-net.com.pl/)**
+  - Webflow, Relume.io, Finsweet Client First, Senuto
+    
+- **[Moto M5](https://motom5.my-shopify.com)**
+  - Liquid, Shopify, GraphQL, Wheel Size API, Relume.io
 
 ## 🌐 Connect with Me
 
