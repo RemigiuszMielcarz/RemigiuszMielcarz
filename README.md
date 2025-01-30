@@ -52,7 +52,7 @@ As the CTO of [Flipico](https://flipico.agency), I specialize in the design and 
   - Webflow, Memberstack, Relume.io, Finsweet Client First, Make, Firebase
 
 - **[Deckline](https://deckline.pl)**
-  - Webflow, Typescript, Stripe.js, Relume.io, Finsweet Client First, Make, Node.js, Express, Baselinker
+  - Webflow, Typescript, Stripe.js, Relume.io, Finsweet Client First, Make, Node.js, Express, Baselinker, 3D Bin Packer, InPost & DHL API
 
 - **[Eu4ya by Tiguar](https://www.euforya.pl)**
   - Webflow, Typescript, Bookero, Relume.io, Finsweet Client First, Make, Hotjar
@@ -61,7 +61,7 @@ As the CTO of [Flipico](https://flipico.agency), I specialize in the design and 
   - Webflow, Relume.io, Finsweet Client First, Make, MailerLite, Typescript, Stripe.js, Node.js, qrScanner, Airtable, Invoice API, Google Sheets App scripts
 
 - **[Gordon Trade](https://www.gordontrade.pl)**
-  - Webflow, Relume.io, Finsweet Client First, Make, Typescript, Google Sheets App scripts
+  - Webflow, Relume.io, Finsweet Client First, Make, Typescript, Google Sheets App scripts, Google Translate API, Webflow Localization
 
 - **[Moto M5](https://oponykola.pl)**
   - Webflow, Relume.io, Liquid, Shopify CLI, GraphQL, Wheel Size API, Google Sheets App scripts, Web Scrapper
