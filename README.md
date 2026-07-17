@@ -1,100 +1,85 @@
-# ⚡ Zap into Cutting-Edge Web Solutions!
+<div align="center">
 
-I am an experienced Full-stack Web Developer who practically speaks in code. Need me to debug your life? 😄<br>
-As the CTO of [Flipico](https://flipico.agency), I specialize in the design and programming of web applications, ranging from e-commerce platforms to social portals, using both low-code and traditional programming approaches.
+<img src="./assets/koda-banner.png" alt="Remigiusz Mielcarz, Co-Founder i Full-stack Developer w Koda Plus" width="100%">
 
-## 🚀 About Me
+<br>
 
-- **Education**:
-  - **Automatics and Robotics (BSc)** - Wrocław University of Technology
-  - **Electronic Systems in Mechatronics (MSc)** - Wrocław University of Technology
+[![Koda Plus](https://img.shields.io/badge/koda.plus-26D07C?style=for-the-badge&logoColor=white)](https://www.koda.plus)
+[![Live demo](https://img.shields.io/badge/demo.koda.plus-212721?style=for-the-badge)](https://demo.koda.plus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remigiusz-mielcarz)
+[![Email](https://img.shields.io/badge/remik@koda.plus-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:remik@koda.plus)
 
-- **Experience**:
-  - **CTO at Flipico** (03/2022 - Present)
-  - **Full-stack Web Developer at BOWWE** (04/2022 - 07/2022)
+</div>
 
-## ⚙️ Skills
+---
 
-| **Languages**             | **Frontend Technologies**                  | **Backend Technologies**                    | **AI and Automation**                  |
-|---------------------------|--------------------------------------------|---------------------------------------------|---------------------------------------|
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Webflow](https://img.shields.io/badge/-Webflow-000000?style=flat-square&logo=webflow&logoColor=white) | ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white) | ![Make](https://img.shields.io/badge/-Make-000000?style=flat-square&logo=make&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Wized](https://img.shields.io/badge/-Wized-4353FF?style=flat-square&logo=wattpad&logoColor=white) | ![Memberstack](https://img.shields.io/badge/-Memberstack-000000?style=flat-square&logo=webflow&logoColor=white) | ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white) |
-| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Relume.io](https://img.shields.io/badge/-Relume-000000?style=flat-square&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![MidJourney](https://img.shields.io/badge/-MidJourney-000000?style=flat-square&logo=midjourney&logoColor=white) |
-| ![Liquid](https://img.shields.io/badge/-Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white) | ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![DALL-E](https://img.shields.io/badge/-DALL--E-000000?style=flat-square&logo=openaidall-e&logoColor=white) |
-| ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) | ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00B2FF?style=flat-square&logo=openai&logoColor=white) |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white) | ![Senuto](https://img.shields.io/badge/-Senuto-4D8F6D?style=flat-square&logo=senuto&logoColor=white) |
-| ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |  |
-| ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) |  |
-| ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) | ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) |  |
+## ⚡ What I do
 
-<!--
-| **Languages**             | **Frontend Technologies**                  | **Backend Technologies**                    | **AI and Automation**                  |
-|---------------------------|--------------------------------------------|---------------------------------------------|---------------------------------------|
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **⭐⭐⭐⭐⭐** | ![Webflow](https://img.shields.io/badge/-Webflow-000000?style=flat-square&logo=webflow&logoColor=white) **⭐⭐⭐⭐⭐** | ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white) **⭐⭐⭐⭐⭐** | ![Make](https://img.shields.io/badge/-Make-000000?style=flat-square&logo=make&logoColor=white) **⭐⭐⭐⭐⭐** |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) **⭐⭐⭐⭐⭐** | ![Wized](https://img.shields.io/badge/-Wized-000000?style=flat-square&logo=wized&logoColor=white) **⭐⭐⭐⭐⭐** | ![Memberstack](https://img.shields.io/badge/-Memberstack-000000?style=flat-square&logo=memberstack&logoColor=white) **⭐⭐⭐⭐⭐** | ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white) **⭐⭐⭐⭐⭐** |
-| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) **⭐⭐⭐⭐⭐** | ![Relume](https://img.shields.io/badge/-Relume-000000?style=flat-square&logo=relume&logoColor=white) **⭐⭐⭐⭐⭐** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) **⭐⭐⭐⭐⭐** | ![MidJourney](https://img.shields.io/badge/-MidJourney-000000?style=flat-square&logo=midjourney&logoColor=white) **⭐⭐⭐⭐⭐** |
-| ![Liquid](https://img.shields.io/badge/-Liquid-000000?style=flat-square&logo=liquid&logoColor=white) **⭐⭐⭐⭐⭐** | ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) **⭐⭐⭐⭐⭐** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) **⭐⭐⭐⭐** | ![DALL-E](https://img.shields.io/badge/-DALL--E-000000?style=flat-square&logo=openaidall-e&logoColor=white) **⭐⭐⭐⭐⭐** |
-| ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) **⭐⭐⭐** | ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white) **⭐⭐⭐⭐** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) **⭐⭐⭐⭐** | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00B2FF?style=flat-square&logo=openai&logoColor=white) **⭐⭐⭐⭐⭐** |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) **⭐⭐⭐** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) **⭐⭐⭐** | ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white) **⭐⭐⭐** | ![Senuto](https://img.shields.io/badge/-Senuto-4D8F6D?style=flat-square&logo=senuto&logoColor=white) **⭐⭐** |
-| ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) **⭐⭐** | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) **⭐⭐⭐⭐⭐** | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) **⭐⭐** |  |
-| ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) **⭐⭐** | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) **⭐⭐⭐⭐⭐** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) **⭐⭐** |  |
-| ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) **⭐⭐** | ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) **⭐⭐⭐⭐** | ![Laravel](https://img.shields.io/badge/-Laravel-E74430?style=flat-square&logo=laravel&logoColor=white) **⭐** |  |
---!>
+I build the systems that sell. Co-Founder and CTO at **[Koda Plus](https://github.com/Koda-Plus)**, a software agency from Wrocław: e-commerce platforms, B2B wholesale portals and web apps, built on Astro and Medusa.
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RemigiuszMielcarz&layout=compact) -->
+- 🏭 **Wholesale B2B is my home turf.** Customer-group pricing, VAT-ID registration, MOQ, quick-order from an SKU list, credit limits, ERP sync. The unglamorous logic that decides whether a wholesaler actually buys online.
+- 🤖 **I orchestrate agents, not just code.** A fleet of AI agents works in parallel on top of our own knowledge base of standards and tested modules, while I own the architecture and the quality gate.
+- 🎯 **Proof over pitch.** We build a working demo of the client's store before the first call. Then we talk.
 
-## 💼 Projects
+## 🏗️ What I am building now
 
-- **[Flipico](https://flipico.agency)**
-  - Webflow, CMS, Relume.io, Finsweet Client First, Senuto
+| Project | What it is | Live |
+|---|---|---|
+| **KODA SUPPLY** | B2B wholesale demo store. The engine running in the open: group pricing, quick-order, checkout. | [demo.koda.plus](https://demo.koda.plus) |
+| **koda.plus** | Agency site. Astro 6 on Cloudflare Workers, bilingual, animation-heavy. | [koda.plus](https://www.koda.plus) |
+| **[serum](https://github.com/Koda-Plus/serum)** | Streetwear, music and street-art gallery storefront. Next.js 16 + Tailwind 4. | [demo](https://serum-koda-demo.vercel.app) |
+| **[schmidt-revolution-demo](https://github.com/Koda-Plus/schmidt-revolution-demo)** | Hyper-personalised e-commerce concept for a German wheel brand. Astro 6 + React + MapLibre. | [demo](https://demo-five-dun-69.vercel.app) |
 
-- **[Doba Regionalnie](https://regionalnie.doba.pl)**
-  - Webflow, Memberstack, Relume.io, Finsweet Client First, Make, Firebase
+Command Center (our own CRM, lead-gen and agent orchestrator) and most client work live in private repos.
 
-- **[Deckline](https://deckline.pl)**
-  - Webflow, Typescript, Stripe.js, Relume.io, Finsweet Client First, Make, Node.js, Express, Baselinker, 3D Bin Packer, InPost & DHL API
+## ⚙️ Stack
 
-- **[Eu4ya by Tiguar](https://www.euforya.pl)**
-  - Webflow, Typescript, Bookero, Relume.io, Finsweet Client First, Make, Hotjar
-    
-- **[vSprint](https://konferencja.vsprint.pl)**
-  - Webflow, Relume.io, Finsweet Client First, Make, MailerLite, Typescript, Stripe.js, Node.js, qrScanner, Airtable, Invoice API, Google Sheets App scripts
+| **Languages** | **Frontend** | **Backend & Commerce** | **Infra, AI & Tools** |
+|---|---|---|---|
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) | ![Medusa](https://img.shields.io/badge/-Medusa.js-000000?style=flat-square&logo=medusa&logoColor=white) | ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white) | ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) | ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) |
+| ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | ![Motion](https://img.shields.io/badge/-Motion-FFEE00?style=flat-square&logo=framer&logoColor=black) | ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Liquid](https://img.shields.io/badge/-Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white) | ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) | ![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) |
+| ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) | ![Webflow](https://img.shields.io/badge/-Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white) | ![Resend](https://img.shields.io/badge/-Resend-000000?style=flat-square&logo=resend&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
-- **[Gordon Trade](https://www.gordontrade.pl)**
-  - Webflow, Relume.io, Finsweet Client First, Make, Typescript, Google Sheets App scripts, Google Translate API, Webflow Localization
+Polish e-commerce plumbing: InPost and DHL shipping, Subiekt GT and other ERP sync, VIES VAT-ID validation, Fakturownia invoicing.
 
-- **[Moto M5](https://oponykola.pl)**
-  - Webflow, Relume.io, Liquid, Shopify CLI, GraphQL, Wheel Size API, Google Sheets App scripts, Web Scrapper
-    
-<!--
-- **[Olimp Marketplace](https://olimp-marketplace.webflow.io/pakiet-rynkow-wschodzacych)**
-  - Webflow, Relume.io, Finsweet Client First, Make
+## 🎓 Background
 
-- **[Com-net](https://com-net.com.pl/)**
-  - Webflow, Relume.io, Finsweet Client First, Senuto
+**Experience**
 
-## 🌐 Connect with Me
+- **Co-Founder / CTO** at **Koda Plus** (2026 &rarr; now)
+- **Co-Founder / CTO** at **Flipico Agency** (2022 &rarr; now)
+- **Full-stack Web Developer** at **BOWWE** (2022)
 
-- [![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:remigiusz.mielcarz@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remigiusz-mielcarz)
+**Education**, Wrocław University of Technology
+
+- **MSc**, Electronic Systems in Mechatronics
+- **BSc**, Automatics and Robotics
+
+## 🧰 Earlier work
+
+Low-code and Webflow era, still live and still earning:
+
+**[Deckline](https://deckline.pl)** (TypeScript, Stripe, Node, Express, Baselinker, 3D bin packing, InPost and DHL API), **[Eu4ya by Tiguar](https://www.euforya.pl)** (Bookero, Make, Hotjar), **[vSprint](https://konferencja.vsprint.pl)** (Stripe, Node, QR scanner, Airtable, invoicing API), **[Gordon Trade](https://www.gordontrade.pl)** (Google Translate API, Webflow Localization), **[Moto M5](https://oponykola.pl)** (Shopify CLI, Liquid, GraphQL, Wheel Size API)
 
 ## 🏅 Certifications
 
-- Hackerrank certificates: <br>
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-00A680?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/remy_00)
-  - **[Rest API (Intermediate)](https://www.hackerrank.com/certificates/bb3f54cab14f)**
-  - **[JavaScript (Intermediate)](https://www.hackerrank.com/certificates/9a63781f0e1f)**
-  - **[SQL (Intermediate)](https://www.hackerrank.com/certificates/358281b72c9c)**
-  - **[Frontend Developer (React)](https://www.hackerrank.com/certificates/9ca1d24f3b03)**
-  - **[Software Engineer](https://www.hackerrank.com/certificates/113dd73546e8)**
-  - **[Software Engineer Intern](https://www.hackerrank.com/certificates/07fa29a77ede)**
-  - **[Java (Basic)](https://www.hackerrank.com/certificates/4e25f5317c66)**
-  - **[Python (Basic)](https://www.hackerrank.com/certificates/c6da8dafae50)**
-  - **[JavaScript (Basic)](https://www.hackerrank.com/certificates/44f455bd2ac9)**
-  - **[SQL (Basic)](https://www.hackerrank.com/certificates/07e6418375cc)**
-  - **[React (Basic)](https://www.hackerrank.com/certificates/91f9f1585847)**
-  - **[Angular (Basic)](https://www.hackerrank.com/certificates/9b230717280e)**
-  - **[Node (Basic)](https://www.hackerrank.com/certificates/8077fb5b65ad)**
+[![HackerRank](https://img.shields.io/badge/HackerRank-00A680?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/remy_00)
+[![LinkedIn](https://img.shields.io/badge/All%20certificates-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remigiusz-mielcarz/details/certifications/)
 
-- All my certificates can also be found on LinkedIn, where there are also Webflow certifications: <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remigiusz-mielcarz/details/certifications/)
+Software Engineer, Frontend Developer (React), REST API (Intermediate), JavaScript (Intermediate), SQL (Intermediate), plus the basics track (Java, Python, React, Angular, Node, SQL, JavaScript). Webflow certifications on LinkedIn.
+
+---
+
+<div align="center">
+
+**Selling something online and the system is fighting you?**<br>
+Tell me what you sell and to whom. You get a working demo, not a slide deck.
+
+[![Book a call](https://img.shields.io/badge/Book%20a%20call-26D07C?style=for-the-badge&logoColor=white)](https://www.koda.plus/kontakt)
+[![Email](https://img.shields.io/badge/remik@koda.plus-212721?style=for-the-badge&logo=gmail&logoColor=white)](mailto:remik@koda.plus)
+
+</div>
